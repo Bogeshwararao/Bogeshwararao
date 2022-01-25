@@ -22,7 +22,11 @@
 <b>###  Profile overview: 👁️👁️</b>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Bogeshwararao&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Bogeshwararao&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 <br>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bogeshwararao">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bogeshwararao&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<br>
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Bogeshwararao&theme=react-dark">
+
