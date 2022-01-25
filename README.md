@@ -8,7 +8,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bogesh-wararao-760530221/) 
 - 😄 Pronouns: he/him
    
-  ⚙️ Languages and Tools:
+  ⚙️ <b>Languages and Tools:</b>
   <br>
   <br>
   <a href="https://www.codeblocks.org/downloads/" target='_blank'><img bottom=30px width=40px align=left src="https://th.bing.com/th/id/OIP.96hD_BAVqME5FjeQgQS0pgHaIi?w=167&h=193&c=7&r=0&o=5&pid=1.7"></a>
@@ -17,3 +17,9 @@
 <a href="https://code.visualstudio.com/Download" target='_blank'><img bottom=30px width=40px align=left src="https://th.bing.com/th/id/OIP.deTW1aD2uPTkAw-bAFEcpwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7"></a>
 <a href="https://code.visualstudio.com/Download" target='_blank'><img bottom=30px width=40px align=left src="https://th.bing.com/th/id/OIP.5RboYI2uHwFzELiFze7rZwAAAA?w=171&h=180&c=7&r=0&o=5&pid=1.7"></a>
 <a href="https://code.visualstudio.com/Download" target='_blank'><img bottom=30px width=50px align=left src="https://th.bing.com/th/id/OIP.P8Fbi-c793WjmMspma-tPAHaHa?pid=ImgDet&w=193&h=193&c=7"></a>
+<br>
+<br>
+<b>###  Profile overview: 👁️👁️</b>
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Bogeshwararao&show_icons=true">
