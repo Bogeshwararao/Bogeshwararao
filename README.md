@@ -25,4 +25,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Bogeshwararao&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 <br>
 <br>
+## some consistency:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bogeshwararao&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
