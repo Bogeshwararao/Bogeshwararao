@@ -24,3 +24,5 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Bogeshwararao&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 <br>
+<br>
+<img width=500px src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bogeshwararao&layout=compact&langs_count=8&theme=algolia">
