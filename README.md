@@ -22,7 +22,7 @@
 <b>###  Profile overview: 👁️👁️</b>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Bogeshwararao&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<img width=450px src="https://github-readme-stats.vercel.app/api?username=Bogeshwararao&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 <br>
 <br>
-<img width=500px src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bogeshwararao&layout=compact&langs_count=8&theme=algolia">
+<img width=450px margin-right=300px src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bogeshwararao&layout=compact&langs_count=8&theme=algolia">
