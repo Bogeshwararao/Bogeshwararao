@@ -17,6 +17,7 @@
 <a href="https://code.visualstudio.com/Download" target='_blank'><img bottom=30px width=40px align=left src="https://th.bing.com/th/id/OIP.deTW1aD2uPTkAw-bAFEcpwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7"></a>
 <a href="https://code.visualstudio.com/Download" target='_blank'><img bottom=30px width=40px align=left src="https://th.bing.com/th/id/OIP.5RboYI2uHwFzELiFze7rZwAAAA?w=171&h=180&c=7&r=0&o=5&pid=1.7"></a>
 <a href="https://code.visualstudio.com/Download" target='_blank'><img bottom=30px width=50px align=left src="https://th.bing.com/th/id/OIP.P8Fbi-c793WjmMspma-tPAHaHa?pid=ImgDet&w=193&h=193&c=7"></a>
+<a href="https://code.visualstudio.com/Download" target='_blank'><img top=20px height=50px bottom=45px width=50px align=left src="https://www.bing.com/th?id=OIP.3pbn96F_IFdhSmJ1MaRe9AHaKN&w=87&h=106&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"></a>
 <br>
 <br>
 <b>###  Profile overview: 👁️👁️</b>
