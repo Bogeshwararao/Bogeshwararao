@@ -1,6 +1,6 @@
 ### Hi 👋 I am Bogeshwararo
 
-- 🔭 I’m currently working on windows
+- 🔭 I’m currently working on windows && Linux(ubuntu)
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with react
