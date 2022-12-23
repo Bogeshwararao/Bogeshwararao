@@ -1,5 +1,5 @@
 ### Hi 👋 I am Bogeshwararo
-
+<img align=center src="https://komarev.com/ghpvc/?username=bogeshwararao&color=ff5656&style=flat-square" />
 - 🔭 I’m currently working on windows && Linux(ubuntu)
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on new projects
