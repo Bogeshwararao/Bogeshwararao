@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on FUll stack projects
 - 🤔 I’m looking for help with Cloud
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bogesh-wararao-760530221/)
-- My portfolio : [PORTFOLIO](bogesh.netlify.app) 
+- My portfolio : [PORTFOLIO](https://bogesh12.netlify.app/)
 - 😄 Pronouns: he/him
    
   ⚙️ <b>Languages and Tools:</b>
