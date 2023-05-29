@@ -1,11 +1,11 @@
 ### Hi 👋 I am Bogeshwararo
 
 - 🔭 I’m currently working on windows && Linux(ubuntu)
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on new projects
-- 🤔 I’m looking for help with react
-- 💬 Ask me about HTML & CSS related stuff.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bogesh-wararao-760530221/) 
+- 🌱 I’m currently learning AWS
+- 👯 I’m looking to collaborate on FUll stack projects
+- 🤔 I’m looking for help with Cloud
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bogesh-wararao-760530221/)
+- My portfolio : [PORTFOLIO](bogesh.netlify.app) 
 - 😄 Pronouns: he/him
    
   ⚙️ <b>Languages and Tools:</b>
