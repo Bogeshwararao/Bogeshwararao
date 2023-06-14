@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on windows && Linux(ubuntu)
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on FUll stack projects
-- 🤔 I’m looking for help with Cloud
+- 🤔 I’m looking for help with Cloud computing(AWS)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bogesh-wararao-760530221/)
 - My portfolio : [PORTFOLIO](https://bogesh.netlify.app/)
 - 😄 Pronouns: he/him
